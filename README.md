@@ -6,17 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan6823" alt="sayan6823" /></a> </p>
 
-- 🔭 I’m currently working on **building my portfolio and building other web apps**
+- 🔭 I’m currently a CSE Undergrad student at KIIT
 
 - 🌱 I’m currently learning **React JS, Python**
 
-- 👨‍💻 All of my projects are available at [https://sayan6823.github.io/CV/](https://sayan6823.github.io/CV/)
+- 👨‍💻 I’m currently learning AI/ML
 
-- 💬 Ask me about **C++ , JAVA**
+- 💬 Ask me about **C++ , SQL**
 
-- 📫 How to reach me **sayan6823@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zGnCYmoNmQmBm1MPtVX29jNn-S6WbMwW/view?usp=drive_link](https://drive.google.com/file/d/1zGnCYmoNmQmBm1MPtVX29jNn-S6WbMwW/view?usp=drive_link)
+- 📫 How to reach me **sayanchat6823@gmail.com**
 
 - ⚡ Fun fact **Octopuses have three hearts.**
 
