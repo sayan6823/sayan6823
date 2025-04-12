@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh1Z2ZvNDlrZXdhMnBpZ2UyN3YwNGF2OW95bHVoMzFhYmM5dTVvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Sayan Chattopadhyay</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
@@ -33,7 +33,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan6823&show_icons=true&locale=en&layout=compact" alt="sayan6823" /></p> -->
 
- <img align="right" alt="coding" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan6823&theme=algolia&hide_border=false">
+ <img align="right" alt="coding" width="35%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYwZzJqa2Y1cHdwenhiaXBmdjEwYmpnZnJ1cTJvN3M0ZHhlcmk4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan6823&theme=nightowl" alt="sayan6823" /></p> 
 
