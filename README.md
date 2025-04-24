@@ -20,9 +20,11 @@
 <!--   Duck -->
 <!--   <img src="https://imgur.com/BoJryZH.gif" width="1080px"> -->
 <!--   Coding Dark -->
-  <img src="https://imgur.com/1wkjfrG.gif" width="1080px">
+<!--   <img src="https://imgur.com/1wkjfrG.gif" width="1080px"> -->
 <!--   founding titan -->
 <!--   <img src="https://imgur.com/64S8nlU.gif" width="1080px"> -->
+  <!-- Chimpanzee -->
+    <img src="https://imgur.com/gNK8Dbq" width="1080px">
 </p>
 
 <!-- ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
