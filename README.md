@@ -40,7 +40,7 @@
 
 - 🔭 I’m currently a CSE Undergrad student at KIIT
 
-- 🌱 I’m currently learning **React JS, Python,AI/ML**
+- 🌱 I’m currently learning **React JS, Python, AI/ML**
 
 - 💬 Ask me about **C++ , SQL**
 
