@@ -64,7 +64,10 @@
 
 <p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYwZzJqa2Y1cHdwenhiaXBmdjEwYmpnZnJ1cTJvN3M0ZHhlcmk4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="sayan6823" /></p> 
 
-<img align="right" alt="coding" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan6823&theme=algolia&hide_border=false">
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sayan6823&show_icons=true&theme=outrun" />
+<!--    <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=i-am-faith&theme=nightowl&short_numbers=true"/> -->
+</p>
 
 
 
