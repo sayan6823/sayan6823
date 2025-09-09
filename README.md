@@ -66,7 +66,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sayan6823&show_icons=true&theme=outrun" />
-<!--    <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=i-am-faith&theme=nightowl&short_numbers=true"/> -->
+   <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sayan6823&theme=nightowl&short_numbers=true"/>
 </p>
 
 
