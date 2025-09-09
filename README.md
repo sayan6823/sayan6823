@@ -60,18 +60,25 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan6823&show_icons=true&locale=en&layout=compact" alt="sayan6823" /></p> -->
 
- <img align="right" alt="coding" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan6823&theme=algolia&hide_border=false">
-
-<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYwZzJqa2Y1cHdwenhiaXBmdjEwYmpnZnJ1cTJvN3M0ZHhlcmk4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="sayan6823" /></p> 
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sayan6823&show_icons=true&theme=outrun" />
-   <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sayan6823&theme=nightowl&short_numbers=true"/>
-</p>
-
-
-<hr>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayan6823&theme=tokyo-night&hide_border=true" alt="Activity graph">
-</a>
+ <!-- Typing GIF and Stats Section -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left side: Typing GIF -->
+      <td valign="top" width="60%">
+        <br>
+        <!-- GitHub Stats Card -->
+        <img width="98%" src="https://github-readme-stats.vercel.app/api?username=sayan6823&show_icons=true&theme=outrun" />
+        <!-- GitHub Streak and Contributions -->
+        <img width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sayan6823&theme=nightowl&short_numbers=true"/>
+      </td>
+      <!-- Right side: Language Card -->
+      <td valign="top" width="40%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYwZzJqa2Y1cHdwenhiaXBmdjEwYmpnZnJ1cTJvN3M0ZHhlcmk4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"
+             alt="Typing Animation" width="100%"/>
+        <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan6823&theme=algolia&hide_border=false">
+      </td>
+    </tr>
+  </table>
+</div>
 
